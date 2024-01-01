@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project_imdb.Server", "project_imdb.Server\project_imdb.Server.csproj", "{32D0FA08-03E4-4D7C-88A9-92CD557B75F6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "project_imdb.client", "project_imdb.client\project_imdb.client.esproj", "{874EB1FB-7F91-4204-B215-3F262E65909A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D0FA08-03E4-4D7C-88A9-92CD557B75F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D0FA08-03E4-4D7C-88A9-92CD557B75F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D0FA08-03E4-4D7C-88A9-92CD557B75F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D0FA08-03E4-4D7C-88A9-92CD557B75F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874EB1FB-7F91-4204-B215-3F262E65909A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DD9D19-5C23-48AB-B83D-C361840EE537}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\OZANCRP\\Desktop\\EXS\\4.GRD\\AUTUMN\\MVC\\codebase00\\project_imdb\\project_imdb.Server\\..\\project_imdb.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

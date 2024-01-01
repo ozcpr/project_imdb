@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AoZZUyBx2fv0Mz37GHI91tJZu/h0hU0Ldjj6J4oGn/8=",
+  "Source": "project_imdb.Server",
+  "BasePath": "_content/project_imdb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\OZANCRP\\Desktop\\EXS\\4.GRD\\AUTUMN\\MVC\\codebase00\\project_imdb\\project_imdb.client\\project_imdb.client.esproj",
+      "Version": 2,
+      "Source": "project_imdb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
