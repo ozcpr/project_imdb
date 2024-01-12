@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(0, 0, 0, 0.00);
+    padding: 16px 16px;
+
+    .container {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .navbar-item {
+        color: white;
+        text-decoration: none;
+        margin: 0 15px;
+        font-size: 18px;
+
+        &:hover {
+            text-decoration: underline;
+            color: #f6c700;
+        }
+    }
+}

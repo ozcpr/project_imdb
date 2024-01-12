@@ -1,0 +1,26 @@
+.css-wb57ya-MuiFormControl-root-MuiTextField-root {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    background-color: #f0f0f0; 
+    vertical-align: middle;
+
+    .css-bgjxew-MuiAutocomplete-root {
+        width: 400px; 
+        background-color: ghostwhite;
+
+        .label {
+            color: #333; 
+            font-size: 16px; 
+            font-weight: bold;  
+            margin-bottom: 8px;  
+        }
+
+        .input {
+            width: 100%;
+            padding: 10px;
+        }
+    }
+}
